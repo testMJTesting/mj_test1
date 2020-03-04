@@ -1,5 +1,5 @@
 class Student {
-  // Implement the function 'static boolean inInterval(x, y, z)' that
-  // returns true if x is higher than or the same as y and lower than or the same as z
+  // Implement the function 'static boolean isPositive(int)'
+  // returns true if the integer is positive (0 or greater)
   // returns false if not
 }
