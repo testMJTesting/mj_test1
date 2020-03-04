@@ -6,5 +6,9 @@ class Student {
     // door n keer de string str te herhalen. Je mag ervan uitgaan dat n niet negatief is.
     //
     // E.g. repeat("abc", 3) returns "abcabcabc"
-    
+
+	public String repeat(String str, int n){
+		return str;
+	
+	}
 }
