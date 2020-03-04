@@ -4,7 +4,7 @@ class Student {
 
 public int last(int[] xs){
 
-	return xs[xs.length - 1]
+	return xs[xs.length - 1];
 }
 
 }
